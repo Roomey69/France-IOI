@@ -48,7 +48,7 @@ int main()
         }
     }
 
-    printf("%d %d",maisons[index-1].x, maisons[index-1].y);
+    printf("%d %d",maisons[index].x, maisons[index].y);
 
     return 0;
 }
